@@ -33,6 +33,7 @@
 This section lists major technologies I used to build the project.
 * [PHP]
 * [SQlite]
+* [Composer]
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -49,7 +50,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/iamafasha/tmcg-practical-test
    
    ```
 3. Open public dir
@@ -69,4 +70,4 @@ This is an example of how to list things you need to use the software and how to
 
 Isakiye Afasha - [@iamafasha](https://twitter.com/iamafasha) - me@iamfasha.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/iamafasha/tmcg-practical-test](https://github.com/iamafasha/tmcg-practical-test)
