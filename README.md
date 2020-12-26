@@ -1,5 +1,3 @@
-[![Issues][issues-shield]][issues-url]
-
 <p align="center">
   <h3 align="center">Topsoft Inc</h3>
   <p align="center">
